@@ -1,0 +1,53 @@
+
+# Ignora arquivos e pastas de build
+.yyc/
+.build/
+bin/
+obj/
+*.yyz
+*.zip
+*.exe
+*.dll
+*.o
+*.dmg
+
+# Ignora cache local e configuração de usuário
+.gmx/
+*.gml
+.config/
+.idea/
+*.log
+*.backup
+*.cache
+
+# Ignora arquivos de projeto temporários
+*.sln
+*.suo
+*.user
+*.DS_Store
+Thumbs.db
+*.tmp
+
+# Ignora arquivos do runtime ou de exportação
+*.ipa
+*.apk
+*.pdb
+*.icns
+*.appx
+*.ncb
+*.bak
+
+# Ignora arquivos ocultos de sistema
+desktop.ini
+
+# Ignora builds e arquivos exportados
+export/
+exports/
+build/
+dist/
+
+# Arquivos temporários do editor (geral)
+*.iml
+*.swp
+*.swn
+*.swo
