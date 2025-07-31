@@ -1,0 +1,1 @@
+draw_clear_alpha(c_black, 1); // alpha = 1 → opaco
