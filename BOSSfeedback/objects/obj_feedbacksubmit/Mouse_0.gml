@@ -30,7 +30,7 @@ if (position_meeting(mouse_x, mouse_y, obj_feedbacksubmit)) {
 		show_debug_message("Fiz o upgrade de hazards: " + string(global.upgrade_escolhido));
         break;
 }
-            room_goto(bossroom); 
+            room_goto(bosscutscene1parte2); 
         } else {
             global.mensagem = "Escolha uma opção antes de enviar!";
         }

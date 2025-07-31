@@ -36,6 +36,7 @@ if (keyboard_check_pressed(vk_space) && !esperando) {
                 audio_play_sound(snd_BOSS_death, 1, false);
                 esperando = true;
                 esperar_ate = current_time + 2000;
+				room_goto(menuprincipal2);
                 break;
 
             case 4:
@@ -52,7 +53,7 @@ if (keyboard_check_pressed(vk_space) && !esperando) {
                 break;
 
             case 6:
-                room_goto(feedback);
+                room_goto(feedback1);
                 break;
         }
     }

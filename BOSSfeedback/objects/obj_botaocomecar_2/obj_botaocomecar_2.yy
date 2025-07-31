@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_botaocomecar",
+  "%Name":"obj_botaocomecar_2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_botaocomecar",
+  "name":"obj_botaocomecar_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"PRIMEIRA RUN",
-    "path":"folders/Cenas/PRIMEIRA RUN.yy",
+    "name":"SEGUNDA RUN",
+    "path":"folders/Cenas/SEGUNDA RUN.yy",
   },
   "parentObjectId":null,
   "persistent":false,
