@@ -33,3 +33,5 @@ if (mouse_check_button(mb_left) && fire_timer <= 0) {
     bullet.speed = 8;
     fire_timer = fire_rate;
 }
+
+morteHeroi(hp)

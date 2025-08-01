@@ -1,11 +1,14 @@
 {
   "FolderOrderSettings":[
     {"name":"Cenas","order":3,"path":"folders/Cenas.yy",},
-    {"name":"SEGUNDA RUN","order":6,"path":"folders/Cenas/SEGUNDA RUN.yy",},
     {"name":"PRIMEIRA RUN","order":7,"path":"folders/Cenas/PRIMEIRA RUN.yy",},
+    {"name":"SEGUNDA RUN","order":6,"path":"folders/Cenas/SEGUNDA RUN.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
     {"name":"Objetos","order":2,"path":"folders/Objetos.yy",},
+    {"name":"vida","order":10,"path":"folders/Objetos/vida.yy",},
     {"name":"Sons","order":1,"path":"folders/Sons.yy",},
     {"name":"heroi","order":2,"path":"folders/Sprites/heroi.yy",},
+    {"name":"vida","order":7,"path":"folders/Sprites/vida.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_ataqueboss","order":3,"path":"objects/obj_ataqueboss/obj_ataqueboss.yy",},
@@ -20,6 +23,7 @@
     {"name":"obj_feedbackopcao","order":8,"path":"objects/obj_feedbackopcao/obj_feedbackopcao.yy",},
     {"name":"obj_feedbacksubmit","order":9,"path":"objects/obj_feedbacksubmit/obj_feedbacksubmit.yy",},
     {"name":"obj_heroi_cinematic","order":6,"path":"objects/obj_heroi_cinematic/obj_heroi_cinematic.yy",},
+    {"name":"obj_vida_vazia","order":1,"path":"objects/obj_vida_vazia/obj_vida_vazia.yy",},
     {"name":"bosscutscene1parte2","order":1,"path":"rooms/bosscutscene1parte2/bosscutscene1parte2.yy",},
     {"name":"bossroom_intro","order":8,"path":"rooms/bossroom_intro/bossroom_intro.yy",},
     {"name":"bossroom","order":5,"path":"rooms/bossroom/bossroom.yy",},
@@ -33,5 +37,6 @@
     {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Sprite8","order":6,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"vida_vazia_sprite","order":1,"path":"sprites/vida_vazia_sprite/vida_vazia_sprite.yy",},
   ],
 }
