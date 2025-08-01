@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"Sprite_fogo",
+    "path":"sprites/Sprite_fogo/Sprite_fogo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
