@@ -8,9 +8,6 @@
   "instanceCreationOrder":[
     {"name":"inst_251680F8_2","path":"rooms/bosscutscene2_please/bosscutscene2_please.yy",},
     {"name":"inst_38F9F6E5","path":"rooms/bosscutscene2_please/bosscutscene2_please.yy",},
-    {"name":"inst_2B5A3955_1","path":"rooms/bossroom2/bossroom2.yy",},
-    {"name":"inst_EDB0FE_1","path":"rooms/bossroom2/bossroom2.yy",},
-    {"name":"inst_3D363DF","path":"rooms/bossroom2/bossroom2.yy",},
   ],
   "isDnd":false,
   "layers":[

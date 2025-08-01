@@ -10,8 +10,8 @@
   "name":"obj_BOSS_cinematic3_please",
   "overriddenProperties":[],
   "parent":{
-    "name":"TERCEIRA RUN",
-    "path":"folders/Objetos/TERCEIRA RUN.yy",
+    "name":"3. TERCEIRA RUN",
+    "path":"folders/Objetos/3. TERCEIRA RUN.yy",
   },
   "parentObjectId":null,
   "persistent":false,

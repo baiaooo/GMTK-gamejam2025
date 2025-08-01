@@ -20,7 +20,7 @@ if (!esperando) {
 // Avança com espaço, se não estiver esperando
 if (keyboard_check_pressed(vk_space) && !esperando) {
     // Se ainda não terminou de escrever, pula para o fim da fala atual
-    if (letras_mostradas < string_length(texto[etapa])) {
+	if (letras_mostradas < string_length(texto[etapa])) {
         letras_mostradas = string_length(texto[etapa]);
         letra_por_letra = texto[etapa];
     } else {
@@ -68,6 +68,7 @@ if (keyboard_check_pressed(vk_space) && !esperando) {
                 break;
 				
 			case 7:
+				show_debug_message("GOING TO FEEDBACK")
 			    room_goto(feedback);
                 break;
 		    case 8:

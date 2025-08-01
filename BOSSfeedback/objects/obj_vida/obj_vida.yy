@@ -6,8 +6,8 @@
   "name":"obj_vida",
   "overriddenProperties":[],
   "parent":{
-    "name":"vida",
-    "path":"folders/Objetos/vida.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

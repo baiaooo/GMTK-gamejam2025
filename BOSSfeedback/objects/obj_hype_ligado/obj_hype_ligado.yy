@@ -6,8 +6,8 @@
   "name":"obj_hype_ligado",
   "overriddenProperties":[],
   "parent":{
-    "name":"hype",
-    "path":"folders/Objetos/hype.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
