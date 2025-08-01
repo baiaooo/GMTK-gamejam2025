@@ -59,6 +59,7 @@
     {"name":"ataqueBossScript","order":1,"path":"scripts/ataqueBossScript/ataqueBossScript.yy",},
     {"name":"heroiScript","order":2,"path":"scripts/heroiScript/heroiScript.yy",},
     {"name":"hypeScript","order":3,"path":"scripts/hypeScript/hypeScript.yy",},
+    {"name":"cinematic1_intro","order":1,"path":"scripts/cinematic1_intro/cinematic1_intro.yy",},
     {"name":"music_betterbossmusic","order":3,"path":"sounds/music_betterbossmusic/music_betterbossmusic.yy",},
     {"name":"music_epicbossmusic","order":1,"path":"sounds/music_epicbossmusic/music_epicbossmusic.yy",},
     {"name":"music_gameover","order":2,"path":"sounds/music_gameover/music_gameover.yy",},

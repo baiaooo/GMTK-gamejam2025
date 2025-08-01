@@ -91,6 +91,7 @@
     {"id":{"name":"ataqueBossScript","path":"scripts/ataqueBossScript/ataqueBossScript.yy",},},
     {"id":{"name":"heroiScript","path":"scripts/heroiScript/heroiScript.yy",},},
     {"id":{"name":"hypeScript","path":"scripts/hypeScript/hypeScript.yy",},},
+    {"id":{"name":"cinematic1_intro","path":"scripts/cinematic1_intro/cinematic1_intro.yy",},},
     {"id":{"name":"sortear_upgrade_valido","path":"scripts/sortear_upgrade_valido/sortear_upgrade_valido.yy",},},
     {"id":{"name":"vidaScript","path":"scripts/vidaScript/vidaScript.yy",},},
     {"id":{"name":"music_betterbossmusic","path":"sounds/music_betterbossmusic/music_betterbossmusic.yy",},},
