@@ -81,6 +81,7 @@
     {"id":{"name":"gameover","path":"rooms/gameover/gameover.yy",},},
     {"id":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"id":{"name":"menuprincipal","path":"rooms/menuprincipal/menuprincipal.yy",},},
+    {"id":{"name":"cinematic1_intro","path":"scripts/cinematic1_intro/cinematic1_intro.yy",},},
     {"id":{"name":"sortear_upgrade_valido","path":"scripts/sortear_upgrade_valido/sortear_upgrade_valido.yy",},},
     {"id":{"name":"music_betterbossmusic","path":"sounds/music_betterbossmusic/music_betterbossmusic.yy",},},
     {"id":{"name":"music_bossmusic","path":"sounds/music_bossmusic/music_bossmusic.yy",},},

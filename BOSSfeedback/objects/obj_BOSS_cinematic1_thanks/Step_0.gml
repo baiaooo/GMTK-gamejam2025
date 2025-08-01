@@ -33,7 +33,7 @@ if (keyboard_check_pressed(vk_space) && !esperando) {
 
             case 3:
                 esperando = true;
-                esperar_ate = current_time + 2000;
+                esperar_ate = current_time + 1000;
 				room_goto(menuprincipal);
                 break;
 
