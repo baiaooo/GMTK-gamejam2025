@@ -1,5 +1,3 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
 speed_move = 4;
 fire_rate = 20;
 fire_timer = 0;

@@ -73,7 +73,7 @@ if (keyboard_check_pressed(vk_space) && !esperando) {
 
 
             default:
-                room_goto(menuprincipal); 
+                room_goto(winscene); 
                 break;
         }
     }
