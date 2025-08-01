@@ -10,8 +10,8 @@
   "name":"obj_BOSS_cinematic1_intro",
   "overriddenProperties":[],
   "parent":{
-    "name":"PRIMEIRA RUN",
-    "path":"folders/Objetos/PRIMEIRA RUN.yy",
+    "name":"1. PRIMEIRA RUN",
+    "path":"folders/Objetos/1. PRIMEIRA RUN.yy",
   },
   "parentObjectId":null,
   "persistent":false,
