@@ -1,0 +1,1 @@
+adicionandoHype(global.hype, global.hype_maximo)
