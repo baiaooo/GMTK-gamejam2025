@@ -91,7 +91,6 @@
     {"id":{"name":"menuprincipal","path":"rooms/menuprincipal/menuprincipal.yy",},},
     {"id":{"name":"winscene","path":"rooms/winscene/winscene.yy",},},
     {"id":{"name":"ataqueBossScript","path":"scripts/ataqueBossScript/ataqueBossScript.yy",},},
-    {"id":{"name":"cinematic1_intro","path":"scripts/cinematic1_intro/cinematic1_intro.yy",},},
     {"id":{"name":"heroiScript","path":"scripts/heroiScript/heroiScript.yy",},},
     {"id":{"name":"hypeScript","path":"scripts/hypeScript/hypeScript.yy",},},
     {"id":{"name":"sortear_upgrade_valido","path":"scripts/sortear_upgrade_valido/sortear_upgrade_valido.yy",},},
