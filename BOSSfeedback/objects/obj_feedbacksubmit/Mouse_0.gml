@@ -2,6 +2,7 @@ if (position_meeting(mouse_x, mouse_y, obj_feedbacksubmit)) {
         if (global.opcao_escolhida != -1) {
             global.mensagem = "Feedback enviado!";
 			global.upgrade_escolhido = global.opcao_escolhida;
+			global.hype +=1;
 
         switch (global.upgrade_escolhido) {
     case 0:

@@ -1,1 +1,0 @@
-global.feedbacks=0;

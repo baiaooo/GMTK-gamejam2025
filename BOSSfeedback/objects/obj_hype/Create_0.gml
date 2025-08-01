@@ -1,0 +1,1 @@
+global.hype=0;

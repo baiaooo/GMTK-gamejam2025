@@ -19,8 +19,8 @@
   ],
   "name":"bossroom2",
   "parent":{
-    "name":"PRIMEIRA RUN",
-    "path":"folders/Cenas/PRIMEIRA RUN.yy",
+    "name":"SEGUNDA RUN",
+    "path":"folders/Cenas/SEGUNDA RUN.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
