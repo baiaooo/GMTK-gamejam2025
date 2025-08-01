@@ -10,6 +10,7 @@ y += v * speed_move;
 x = clamp(x, sprite_width / 2, room_width - sprite_width / 2);
 y = clamp(y, sprite_height / 2, room_height - sprite_height / 2);
 
+
 // Troca de sprite (idle ou run)
 if (h != 0 || v != 0) {
     sprite_index = spr_hero_run;
@@ -35,3 +36,4 @@ if (mouse_check_button(mb_left) && fire_timer <= 0) {
 }
 
 morteHeroi(hp)
+executarInvensibilidade(self)
