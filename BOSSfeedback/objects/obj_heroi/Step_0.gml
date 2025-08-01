@@ -38,5 +38,3 @@ if (hp <= 0 && !global.fimdaluta) {
     audio_play_sound(snd_BOSS_death, 1, false);
 	room_goto(gameover);
 }
-
-executarInvensibilidade(self)

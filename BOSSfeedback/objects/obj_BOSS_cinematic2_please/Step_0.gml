@@ -60,9 +60,7 @@ case 1:
                 esperando = true;
                 esperar_ate = current_time + 100;
                 break;
-
 			 case 5: default:
-
                 room_goto(feedback);
                 break;
 

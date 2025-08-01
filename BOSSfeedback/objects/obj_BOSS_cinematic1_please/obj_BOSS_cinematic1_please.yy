@@ -8,8 +8,8 @@
   "name":"obj_BOSS_cinematic1_please",
   "overriddenProperties":[],
   "parent":{
-    "name":"1. PRIMEIRA RUN",
-    "path":"folders/Objetos/1. PRIMEIRA RUN.yy",
+    "name":"PRIMEIRA RUN",
+    "path":"folders/Objetos/PRIMEIRA RUN.yy",
   },
   "parentObjectId":{
     "name":"obj_BOSS_cinematic1_intro",

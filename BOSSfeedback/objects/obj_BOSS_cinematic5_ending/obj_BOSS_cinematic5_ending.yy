@@ -8,8 +8,8 @@
   "name":"obj_BOSS_cinematic5_ending",
   "overriddenProperties":[],
   "parent":{
-    "name":"5. QUINTA RUN",
-    "path":"folders/Objetos/5. QUINTA RUN.yy",
+    "name":"QUINTA RUN",
+    "path":"folders/Objetos/QUINTA RUN.yy",
   },
   "parentObjectId":{
     "name":"obj_BOSS_cinematic1_intro",
