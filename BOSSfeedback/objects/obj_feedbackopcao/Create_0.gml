@@ -1,22 +1,47 @@
-// Sorteia um número ainda não usado
-if (array_length(global.upgrades_possiveis) == 0) {
-    numero = -1; // Nenhum upgrade disponível
-    texto = "Erro: sem opções!";
-} else {
-    var idx = irandom(array_length(global.upgrades_possiveis) - 1);
-    numero = global.upgrades_possiveis[idx];
+upgrade = sortear_upgrade_valido(); // já mostra no debug
 
-    // Remove o número da lista de disponíveis
-    array_delete(global.upgrades_possiveis, idx, 1);
-    array_push(global.upgrades_usados, numero);
+// Define texto visível para o jogador
+switch (upgrade) {
+    case "upgrade_musica": texto = "Add some better music"; break;
+    case "upgrade_segundaforma": texto = "Second boss phase!!"; break;
+    case "upgrade_musicaepica": texto = "We need an EPIC soundtrack"; break;
+    case "upgrade_puzzle": texto = "Add a puzzle mechanic or something"; break;
+    case "upgrade_bullet":
+        if (global.upgrade_bullet == 0) texto = "More projectiles maybe?";
+        else if (global.upgrade_bullet == 1) texto = "Even more bullets";
+        else texto = choose("Make it rain bullets", "Unleash bullet storm", "Make it a bullet hell");
+        break;
 
-    // Define o texto com base no número
-    switch (numero) {
-        case 0: texto = "Add more minions"; break;
-        case 1: texto = "Epic cinematic attacks"; break;
-        case 2: texto = "Better music and sound"; break;
-        case 3: texto = "Smarter boss patterns"; break;
-        case 4: texto = "Environmental hazards"; break;
-        default: texto = "???"; break;
-    }
+    case "upgrade_explosion":
+        if (global.upgrade_explosion == 0) texto = "Add explosions!";
+        else if (global.upgrade_explosion == 1) texto = "Stronger explosions";
+        else texto = choose("More boom!", "Explosions everywhere!");
+        break;
+
+    case "upgrade_minions":
+        if (global.upgrade_minions == 0) texto = "Summon helper minions";
+        else if (global.upgrade_minions == 1) texto = "Summon more minions";
+        else texto = choose("Minion army!!", "Swarm of minions");
+        break;
+
+    case "upgrade_environment":
+        if (global.upgrade_environment == 0) texto = "Add some environmental hazards";
+        else if (global.upgrade_environment == 1) texto = "Make hazards stronger";
+        else texto = choose("Hazards everywhere!", "More hazards!!!");
+        break;
+
+    case "upgrade_hp":
+        if (global.upgrade_hp == 0) texto = "Increase boss HP";
+        else if (global.upgrade_hp == 1) texto = "Even more HP";
+        else texto = choose("Tanky boss mode!!", "Unstoppable endurance!")
+        break;
+
+    case "upgrade_speed":
+        if (global.upgrade_speed == 0) texto = "Increase boss speed";
+        else if (global.upgrade_speed == 1) texto = "Boss gets faster";
+        else texto = choose("Lightning-fast boss!!!", "Blazing speed!");
+		break;
+
+
+    default: texto = "???"; break;
 }

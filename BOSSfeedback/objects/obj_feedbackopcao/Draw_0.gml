@@ -1,4 +1,4 @@
-var selecionado = (global.opcao_escolhida == numero);
+var selecionado = (global.opcao_escolhida == upgrade);
 draw_self();
 // Desenha fundo do botão
 draw_set_color(selecionado ? c_yellow : c_red);

@@ -9,8 +9,8 @@
   "name":"obj_hype",
   "overriddenProperties":[],
   "parent":{
-    "name":"PRIMEIRA RUN",
-    "path":"folders/Cenas/PRIMEIRA RUN.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":true,

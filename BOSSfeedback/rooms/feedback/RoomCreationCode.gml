@@ -1,0 +1,1 @@
+global.upgradesnatela = []; //reseta

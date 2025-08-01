@@ -33,3 +33,8 @@ if (mouse_check_button(mb_left) && fire_timer <= 0) {
     bullet.speed = 8;
     fire_timer = fire_rate;
 }
+if (hp <= 0 && !global.fimdaluta) {
+	global.fimdaluta=true;
+    audio_play_sound(snd_BOSS_death, 1, false);
+	room_goto(gameover);
+}

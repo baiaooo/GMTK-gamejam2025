@@ -1,2 +1,2 @@
-global.opcao_escolhida = -1; // Nenhuma ainda
+global.opcao_escolhida = ""; // Nenhuma ainda
 global.mensagem = "";

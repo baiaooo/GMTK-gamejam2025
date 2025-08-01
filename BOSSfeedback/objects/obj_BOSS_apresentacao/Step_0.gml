@@ -1,0 +1,4 @@
+if (current_time >= trocar_apos) {
+    instance_destroy();  
+        instance_create_layer(x, y, "Instances", obj_BOSS);
+}
