@@ -1,5 +1,6 @@
 if (current_time >= trocar_apos) {
-    switch (global.hype) {
+    audio_stop_all();
+	switch (global.hype) {
     case 0:
         room_goto(bosscutscene1_please);
         break;
