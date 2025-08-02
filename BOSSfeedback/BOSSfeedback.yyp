@@ -88,6 +88,7 @@
     {"id":{"name":"music_bossmusic","path":"sounds/music_bossmusic/music_bossmusic.yy",},},
     {"id":{"name":"music_epicbossmusic","path":"sounds/music_epicbossmusic/music_epicbossmusic.yy",},},
     {"id":{"name":"music_gameover","path":"sounds/music_gameover/music_gameover.yy",},},
+    {"id":{"name":"music_mainmenu","path":"sounds/music_mainmenu/music_mainmenu.yy",},},
     {"id":{"name":"snd_BOSS_death","path":"sounds/snd_BOSS_death/snd_BOSS_death.yy",},},
     {"id":{"name":"spr_hero_idle","path":"sprites/spr_hero_idle/spr_hero_idle.yy",},},
     {"id":{"name":"spr_hero_run","path":"sprites/spr_hero_run/spr_hero_run.yy",},},

@@ -56,6 +56,7 @@
     {"name":"music_betterbossmusic","order":3,"path":"sounds/music_betterbossmusic/music_betterbossmusic.yy",},
     {"name":"music_epicbossmusic","order":1,"path":"sounds/music_epicbossmusic/music_epicbossmusic.yy",},
     {"name":"music_gameover","order":2,"path":"sounds/music_gameover/music_gameover.yy",},
+    {"name":"music_mainmenu","order":4,"path":"sounds/music_mainmenu/music_mainmenu.yy",},
     {"name":"spr_hero_run","order":1,"path":"sprites/spr_hero_run/spr_hero_run.yy",},
     {"name":"Sprite_fogo","order":8,"path":"sprites/Sprite_fogo/Sprite_fogo.yy",},
     {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
