@@ -19,3 +19,11 @@ function morteHeroi(hp) { // Função para mudar de tela quando o heroi morre
 		room_goto(bosscutscene1);
 	}
 }
+
+function criarVidasBoss(vidas, hp) { 
+	for (var i = 0; i < hp; i++) {
+	    var coracao = instance_create_layer(823 + i * 25, 10, "Instances", obj_vida_boss)
+		var coracaoVazio = instance_create_layer(823 + i * 25, 10, "Instances", obj_vida_vazia)
+	    array_push(vidas, coracao)
+	}
+}

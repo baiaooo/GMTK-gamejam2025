@@ -29,6 +29,7 @@
     {"name":"obj_hype_controle","order":2,"path":"objects/obj_hype_controle/obj_hype_controle.yy",},
     {"name":"obj_hype_vazio","order":1,"path":"objects/obj_hype_vazio/obj_hype_vazio.yy",},
     {"name":"obj_hype","order":10,"path":"objects/obj_hype/obj_hype.yy",},
+    {"name":"obj_vida_boss","order":2,"path":"objects/obj_vida_boss/obj_vida_boss.yy",},
     {"name":"obj_vida_vazia","order":1,"path":"objects/obj_vida_vazia/obj_vida_vazia.yy",},
     {"name":"bosscutscene1parte2","order":1,"path":"rooms/bosscutscene1parte2/bosscutscene1parte2.yy",},
     {"name":"bossroom_intro","order":8,"path":"rooms/bossroom_intro/bossroom_intro.yy",},
@@ -48,5 +49,6 @@
     {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Sprite8","order":6,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"vida_vazia_sprite","order":1,"path":"sprites/vida_vazia_sprite/vida_vazia_sprite.yy",},
+    {"name":"vide_boss_sprite","order":2,"path":"sprites/vide_boss_sprite/vide_boss_sprite.yy",},
   ],
 }
